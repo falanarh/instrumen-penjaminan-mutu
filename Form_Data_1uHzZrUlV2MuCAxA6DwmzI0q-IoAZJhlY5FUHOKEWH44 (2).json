@@ -1,0 +1,2217 @@
+{
+  "metadata": {
+    "judul": "Form Penilaian Mandiri Penyelenggara",
+    "deskripsi": "Form ini diisi oleh Penyelenggara sebagai penilaian mandiri sebelum proses verifikasi mutu.\n\nIsi nilai, bukti dukung, dan keterangan untuk setiap indikator. Nilai menggunakan angka 0 sampai 1. Jika bukti tidak tersedia atau indikator tidak berlaku, isi alasannya pada Keterangan.",
+    "id": "1uHzZrUlV2MuCAxA6DwmzI0q-IoAZJhlY5FUHOKEWH44",
+    "urlEdit": "https://docs.google.com/forms/d/1uHzZrUlV2MuCAxA6DwmzI0q-IoAZJhlY5FUHOKEWH44/edit",
+    "urlPublik": "https://docs.google.com/forms/d/e/1FAIpQLSd5eMQdM0Y64gUugOf8zFWXd240RxKAwFiuzaapk9aH5KLQAw/viewform",
+    "kumpulkanEmail": true,
+    "totalItem": 285
+  },
+  "pertanyaan": [
+    {
+      "indeks": 0,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "Identitas Pelatihan",
+      "deskripsi": "𝗜𝗗𝗘𝗡𝗧𝗜𝗧𝗔𝗦 𝗣𝗘𝗟𝗔𝗧𝗜𝗛𝗔𝗡\nBagian ini diisi untuk memastikan hasil penilaian tersambung ke pelatihan yang tepat.\n\n𝘗𝘦𝘵𝘶𝘯𝘫𝘶𝘬\n- Isi sesuai dokumen resmi penyelenggaraan.\n- Gunakan format yang konsisten agar tab hasil penilaian mudah ditemukan.\n- Nama Pelatihan akan dipakai sebagai nama sheet hasil penilaian."
+    },
+    {
+      "indeks": 1,
+      "tipeItem": "TEXT",
+      "judul": "Nama Pelatihan",
+      "deskripsi": "𝗖𝗼𝗻𝘁𝗼𝗵\nPelatihan Instruktur Nasional Pendataan Sensus Ekonomi 2026\n\n𝘗𝘦𝘵𝘶𝘯𝘫𝘶𝘬\n- Gunakan nama pelatihan resmi sesuai dokumen penyelenggaraan.",
+      "wajibDiisi": true
+    },
+    {
+      "indeks": 2,
+      "tipeItem": "MULTIPLE_CHOICE",
+      "judul": "Metode",
+      "deskripsi": "Contoh: 2\nKode metode: 1 = Daring, 2 = Luring, 3 = Blended.",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1 - Daring",
+        "2 - Luring",
+        "3 - Blended"
+      ]
+    },
+    {
+      "indeks": 3,
+      "tipeItem": "DATE",
+      "judul": "Tanggal Mulai Pelatihan",
+      "deskripsi": "Pilih tanggal hari pertama pelaksanaan pelatihan. Contoh sumber: 2 - 6 Januari 2026",
+      "wajibDiisi": true
+    },
+    {
+      "indeks": 4,
+      "tipeItem": "DATE",
+      "judul": "Tanggal Selesai Pelatihan",
+      "deskripsi": "Pilih tanggal hari terakhir pelaksanaan pelatihan. Contoh sumber: 2 - 6 Januari 2026",
+      "wajibDiisi": true
+    },
+    {
+      "indeks": 5,
+      "tipeItem": "TEXT",
+      "judul": "Tempat Penyelenggaraan",
+      "deskripsi": "𝗖𝗼𝗻𝘁𝗼𝗵\nPusdiklat BPS\n\n𝘗𝘦𝘵𝘶𝘯𝘫𝘶𝘬\n- Isi lokasi utama penyelenggaraan pelatihan.",
+      "wajibDiisi": true
+    },
+    {
+      "indeks": 6,
+      "tipeItem": "TEXT",
+      "judul": "Unit Penyelenggara",
+      "deskripsi": "𝗖𝗼𝗻𝘁𝗼𝗵\nGarda SE2026\n\n𝘗𝘦𝘵𝘶𝘯𝘫𝘶𝘬\n- Isi unit kerja atau tim yang bertanggung jawab.",
+      "wajibDiisi": true
+    },
+    {
+      "indeks": 7,
+      "tipeItem": "DATE",
+      "judul": "Tanggal Kegiatan Penjaminan Mutu",
+      "deskripsi": "Contoh: 2, 4, 6 Januari 2026\nIsi tanggal pelaksanaan kegiatan penjaminan mutu.",
+      "wajibDiisi": true
+    },
+    {
+      "indeks": 8,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "PERENCANAAN PELATIHAN",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 9,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I001] 1. Terdapat di Kalender Pelatihan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Terdapat di Kalender Pelatihan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 10,
+      "tipeItem": "LIST",
+      "judul": "[I001] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 11,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I001] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Terdapat di Kalender Pelatihan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 12,
+      "tipeItem": "TEXT",
+      "judul": "[I001] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 13,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I001] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 14,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I002] 2. KAK (Kerangka Acuan Kerja)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- KAK (Kerangka Acuan Kerja)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 15,
+      "tipeItem": "LIST",
+      "judul": "[I002] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 16,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I002] Bukti Dukung",
+      "deskripsi": "Unggah dokumen perencanaan/pembelajaran untuk kelengkapan: KAK (Kerangka Acuan Kerja).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 17,
+      "tipeItem": "TEXT",
+      "judul": "[I002] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 18,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I002] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 19,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I003] 3. Undangan rapat persiapan: penyelenggara dan/atau pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Undangan rapat persiapan: penyelenggara dan/atau pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 20,
+      "tipeItem": "LIST",
+      "judul": "[I003] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 21,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I003] Bukti Dukung",
+      "deskripsi": "Unggah salinan undangan untuk kelengkapan: Undangan rapat persiapan: penyelenggara dan/atau pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 22,
+      "tipeItem": "TEXT",
+      "judul": "[I003] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 23,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I003] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 24,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I004] 4. Daftar hadir rapat persiapan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Daftar hadir rapat persiapan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 25,
+      "tipeItem": "LIST",
+      "judul": "[I004] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 26,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I004] Bukti Dukung",
+      "deskripsi": "Unggah scan/rekap daftar hadir (presensi) untuk kelengkapan: Daftar hadir rapat persiapan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 27,
+      "tipeItem": "TEXT",
+      "judul": "[I004] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 28,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I004] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 29,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I005] 5. notulen rapat persiapan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- notulen rapat persiapan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 30,
+      "tipeItem": "LIST",
+      "judul": "[I005] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 31,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I005] Bukti Dukung",
+      "deskripsi": "Unggah salinan notulensi/berita acara untuk kelengkapan: notulen rapat persiapan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 32,
+      "tipeItem": "TEXT",
+      "judul": "[I005] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 33,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I005] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 34,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I006] 6. Mitigasi Resiko",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Mitigasi Resiko\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 35,
+      "tipeItem": "LIST",
+      "judul": "[I006] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 36,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I006] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Mitigasi Resiko.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 37,
+      "tipeItem": "TEXT",
+      "judul": "[I006] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 38,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I006] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 39,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I007] 6. Surat izin penyelenggaraan *)bagi yang pembinanya di luar bps",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Surat izin penyelenggaraan *)bagi yang pembinanya di luar bps\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 40,
+      "tipeItem": "LIST",
+      "judul": "[I007] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 41,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I007] Bukti Dukung",
+      "deskripsi": "Unggah salinan SK/surat resmi untuk kelengkapan: Surat izin penyelenggaraan *)bagi yang pembinanya di luar bps.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 42,
+      "tipeItem": "TEXT",
+      "judul": "[I007] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 43,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I007] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 44,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I008] 7. Undangan rapat penyamaan persepsi pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Undangan rapat penyamaan persepsi pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 45,
+      "tipeItem": "LIST",
+      "judul": "[I008] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 46,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I008] Bukti Dukung",
+      "deskripsi": "Unggah salinan undangan untuk kelengkapan: Undangan rapat penyamaan persepsi pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 47,
+      "tipeItem": "TEXT",
+      "judul": "[I008] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 48,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I008] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 49,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I009] 8. Daftar hadir rapat penyamaan persepsi pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Daftar hadir rapat penyamaan persepsi pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 50,
+      "tipeItem": "LIST",
+      "judul": "[I009] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 51,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I009] Bukti Dukung",
+      "deskripsi": "Unggah scan/rekap daftar hadir (presensi) untuk kelengkapan: Daftar hadir rapat penyamaan persepsi pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 52,
+      "tipeItem": "TEXT",
+      "judul": "[I009] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 53,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I009] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 54,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I010] 9. notulen rapat penyamaan persepsi pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PERENCANAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- notulen rapat penyamaan persepsi pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 55,
+      "tipeItem": "LIST",
+      "judul": "[I010] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 56,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I010] Bukti Dukung",
+      "deskripsi": "Unggah salinan notulensi/berita acara untuk kelengkapan: notulen rapat penyamaan persepsi pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 57,
+      "tipeItem": "TEXT",
+      "judul": "[I010] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 58,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I010] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 59,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "TENAGA PELATIHAN",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 60,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I011] 10. CV Pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- TENAGA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- CV Pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 61,
+      "tipeItem": "LIST",
+      "judul": "[I011] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 62,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I011] Bukti Dukung",
+      "deskripsi": "Unggah dokumen Curriculum Vitae (CV) untuk kelengkapan: CV Pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 63,
+      "tipeItem": "TEXT",
+      "judul": "[I011] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 64,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I011] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 65,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I012] 11. Sertifikat Workshop/ToT Pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- TENAGA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Sertifikat Workshop/ToT Pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 66,
+      "tipeItem": "LIST",
+      "judul": "[I012] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 67,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I012] Bukti Dukung",
+      "deskripsi": "Unggah salinan sertifikat untuk kelengkapan: Sertifikat Workshop/ToT Pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 68,
+      "tipeItem": "TEXT",
+      "judul": "[I012] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 69,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I012] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 70,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I013] 12. Evaluasi pengajar",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- TENAGA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Evaluasi pengajar\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 71,
+      "tipeItem": "LIST",
+      "judul": "[I013] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 72,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I013] Bukti Dukung",
+      "deskripsi": "Unggah file rekapitulasi/laporan/hasil evaluasi untuk kelengkapan: Evaluasi pengajar.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 73,
+      "tipeItem": "TEXT",
+      "judul": "[I013] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 74,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I013] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 75,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I014] 13. SK/ST Tim Peyelenggaraan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- TENAGA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- SK/ST Tim Peyelenggaraan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 76,
+      "tipeItem": "LIST",
+      "judul": "[I014] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 77,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I014] Bukti Dukung",
+      "deskripsi": "Unggah salinan SK/surat resmi untuk kelengkapan: SK/ST Tim Peyelenggaraan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 78,
+      "tipeItem": "TEXT",
+      "judul": "[I014] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 79,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I014] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 80,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "PENYELENGGARAAN PELATIHAN",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 81,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I015] 14. SK Pedoman Penyelenggaraan Pelatihan (dasar hukum)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- SK Pedoman Penyelenggaraan Pelatihan (dasar hukum)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 82,
+      "tipeItem": "LIST",
+      "judul": "[I015] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 83,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I015] Bukti Dukung",
+      "deskripsi": "Unggah salinan SK/surat resmi untuk kelengkapan: SK Pedoman Penyelenggaraan Pelatihan (dasar hukum).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 84,
+      "tipeItem": "TEXT",
+      "judul": "[I015] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 85,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I015] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 86,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I016] 15. SK Tim Perancang Kurikulum (termasuk sertifikat pelatihan kurikulum)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- SK Tim Perancang Kurikulum (termasuk sertifikat pelatihan kurikulum)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 87,
+      "tipeItem": "LIST",
+      "judul": "[I016] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        ""
+      ]
+    },
+    {
+      "indeks": 88,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I016] Bukti Dukung",
+      "deskripsi": "Unggah salinan SK/surat resmi untuk kelengkapan: SK Tim Perancang Kurikulum (termasuk sertifikat pelatihan kurikulum).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 89,
+      "tipeItem": "TEXT",
+      "judul": "[I016] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 90,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I016] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 91,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I017] 16. Kurikulum pelatihan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Kurikulum pelatihan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 92,
+      "tipeItem": "LIST",
+      "judul": "[I017] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 93,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I017] Bukti Dukung",
+      "deskripsi": "Unggah dokumen perencanaan/pembelajaran untuk kelengkapan: Kurikulum pelatihan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 94,
+      "tipeItem": "TEXT",
+      "judul": "[I017] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 95,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I017] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 96,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I018] 17. Jadwal Pelatihan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Jadwal Pelatihan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 97,
+      "tipeItem": "LIST",
+      "judul": "[I018] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 98,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I018] Bukti Dukung",
+      "deskripsi": "Unggah dokumen perencanaan/pembelajaran untuk kelengkapan: Jadwal Pelatihan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 99,
+      "tipeItem": "TEXT",
+      "judul": "[I018] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 100,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I018] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 101,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I019] 18. RBPMP dan/atau RP",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- RBPMP dan/atau RP\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 102,
+      "tipeItem": "LIST",
+      "judul": "[I019] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 103,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I019] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: RBPMP dan/atau RP.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 104,
+      "tipeItem": "TEXT",
+      "judul": "[I019] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 105,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I019] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 106,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I020] 19. Media pembelajaran (modul, Bahan Tayang, Bahan Ajar)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Media pembelajaran (modul, Bahan Tayang, Bahan Ajar)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 107,
+      "tipeItem": "LIST",
+      "judul": "[I020] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 108,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I020] Bukti Dukung",
+      "deskripsi": "Unggah dokumen perencanaan/pembelajaran untuk kelengkapan: Media pembelajaran (modul, Bahan Tayang, Bahan Ajar).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 109,
+      "tipeItem": "TEXT",
+      "judul": "[I020] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 110,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I020] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 111,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I021] 20. Instrumen kehadiran peserta",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Instrumen kehadiran peserta\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 112,
+      "tipeItem": "LIST",
+      "judul": "[I021] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 113,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I021] Bukti Dukung",
+      "deskripsi": "Unggah scan/rekap daftar hadir (presensi) untuk kelengkapan: Instrumen kehadiran peserta.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 114,
+      "tipeItem": "TEXT",
+      "judul": "[I021] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 115,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I021] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 116,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I022] 46. Kecukupan konsumsi",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PENYELENGGARAAN PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Kecukupan konsumsi\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 117,
+      "tipeItem": "LIST",
+      "judul": "[I022] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 118,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I022] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Kecukupan konsumsi.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 119,
+      "tipeItem": "TEXT",
+      "judul": "[I022] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 120,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I022] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 121,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "PEMANTAUAN DAN EVALUASI",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 122,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I023] 21. Petugas Piket",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PEMANTAUAN DAN EVALUASI\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Petugas Piket\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 123,
+      "tipeItem": "LIST",
+      "judul": "[I023] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 124,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I023] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Petugas Piket.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 125,
+      "tipeItem": "TEXT",
+      "judul": "[I023] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 126,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I023] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 127,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I024] 22. Dokumentasi pembelajaran",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PEMANTAUAN DAN EVALUASI\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Dokumentasi pembelajaran\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 128,
+      "tipeItem": "LIST",
+      "judul": "[I024] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 129,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I024] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Dokumentasi pembelajaran.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 130,
+      "tipeItem": "TEXT",
+      "judul": "[I024] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 131,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I024] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 132,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I025] 23. Evaluasi kepuasan pelatihan oleh peserta",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PEMANTAUAN DAN EVALUASI\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Evaluasi kepuasan pelatihan oleh peserta\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 133,
+      "tipeItem": "LIST",
+      "judul": "[I025] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 134,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I025] Bukti Dukung",
+      "deskripsi": "Unggah file rekapitulasi/laporan/hasil evaluasi untuk kelengkapan: Evaluasi kepuasan pelatihan oleh peserta.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 135,
+      "tipeItem": "TEXT",
+      "judul": "[I025] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 136,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I025] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 137,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I026] 24. Evaluasi pengajar oleh peserta",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PEMANTAUAN DAN EVALUASI\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Evaluasi pengajar oleh peserta\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 138,
+      "tipeItem": "LIST",
+      "judul": "[I026] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 139,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I026] Bukti Dukung",
+      "deskripsi": "Unggah file rekapitulasi/laporan/hasil evaluasi untuk kelengkapan: Evaluasi pengajar oleh peserta.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 140,
+      "tipeItem": "TEXT",
+      "judul": "[I026] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 141,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I026] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 142,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "HASIL PENYELENGGARAAN",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 143,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I027] 25. Rapat evaluasi kelulusan peserta dihadiri oleh pengajar terkait",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- HASIL PENYELENGGARAAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Rapat evaluasi kelulusan peserta dihadiri oleh pengajar terkait\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 144,
+      "tipeItem": "LIST",
+      "judul": "[I027] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 145,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I027] Bukti Dukung",
+      "deskripsi": "Unggah file rekapitulasi/laporan/hasil evaluasi untuk kelengkapan: Rapat evaluasi kelulusan peserta dihadiri oleh pengajar terkait.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 146,
+      "tipeItem": "TEXT",
+      "judul": "[I027] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 147,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I027] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 148,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I028] 26. Berita Acara Kelulusan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- HASIL PENYELENGGARAAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Berita Acara Kelulusan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 149,
+      "tipeItem": "LIST",
+      "judul": "[I028] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "𝗖𝗔𝗥𝗔 𝗠𝗘𝗡𝗚𝗜𝗦𝗜 𝗡𝗜𝗟𝗔𝗜\nIsi nilai mandiri dengan angka bulat 1 atau 0.\n\n𝗣𝗶𝗹𝗶𝗵𝗮𝗻 𝗻𝗶𝗹𝗮𝗶\n- 1 = bukti tersedia (meskipun belum sempurna).\n- 0 = bukti tidak tersedia sama sekali.\n- - = indikator tidak berlaku.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Jika bukti ada tapi tidak lengkap, tetap beri nilai 1 dan tulis kekurangannya di isian Keterangan.\n- Jika menggunakan tanda -, jelaskan alasannya pada isian Keterangan.",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 150,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I028] Bukti Dukung",
+      "deskripsi": "Unggah salinan notulensi/berita acara untuk kelengkapan: Berita Acara Kelulusan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 151,
+      "tipeItem": "TEXT",
+      "judul": "[I028] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 152,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I028] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 153,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I029] 27. Persyaratan Kualifikasi kelulusan peserta",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- HASIL PENYELENGGARAAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Persyaratan Kualifikasi kelulusan peserta\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 154,
+      "tipeItem": "LIST",
+      "judul": "[I029] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 155,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I029] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Persyaratan Kualifikasi kelulusan peserta.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 156,
+      "tipeItem": "TEXT",
+      "judul": "[I029] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 157,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I029] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 158,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I030] 28. Rekaptulasi Nilai Akhir Evaluasi Peserta",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- HASIL PENYELENGGARAAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Rekaptulasi Nilai Akhir Evaluasi Peserta\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 159,
+      "tipeItem": "LIST",
+      "judul": "[I030] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 160,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I030] Bukti Dukung",
+      "deskripsi": "Unggah file rekapitulasi/laporan/hasil evaluasi untuk kelengkapan: Rekaptulasi Nilai Akhir Evaluasi Peserta.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 161,
+      "tipeItem": "TEXT",
+      "judul": "[I030] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 162,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I030] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 163,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I031] 29. Laporan Penyelenggaraan Pelatihan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- HASIL PENYELENGGARAAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Laporan Penyelenggaraan Pelatihan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 164,
+      "tipeItem": "LIST",
+      "judul": "[I031] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 165,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I031] Bukti Dukung",
+      "deskripsi": "Unggah file rekapitulasi/laporan/hasil evaluasi untuk kelengkapan: Laporan Penyelenggaraan Pelatihan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 166,
+      "tipeItem": "TEXT",
+      "judul": "[I031] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 167,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I031] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 168,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "PRASARANA PELATIHAN",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 169,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I032] 30. Aula (100 orang, viewer, sound, AC)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Aula (100 orang, viewer, sound, AC)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 170,
+      "tipeItem": "LIST",
+      "judul": "[I032] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "𝗖𝗔𝗥𝗔 𝗠𝗘𝗡𝗚𝗜𝗦𝗜 𝗡𝗜𝗟𝗔𝗜\nIsi nilai mandiri dengan angka bulat 1 atau 0.\n\n𝗣𝗶𝗹𝗶𝗵𝗮𝗻 𝗻𝗶𝗹𝗮𝗶\n- 1 = bukti tersedia (meskipun belum sempurna).\n- 0 = bukti tidak tersedia sama sekali.\n- - = indikator tidak berlaku.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Jika bukti ada tapi tidak lengkap, tetap beri nilai 1 dan tulis kekurangannya di isian Keterangan.\n- Jika menggunakan tanda -, jelaskan alasannya pada isian Keterangan.",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 171,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I032] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Aula (100 orang, viewer, sound, AC).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 172,
+      "tipeItem": "TEXT",
+      "judul": "[I032] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 173,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I032] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 174,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I033] 31. Ruang Kelas (40 orang, viewer, sound, AC)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Ruang Kelas (40 orang, viewer, sound, AC)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 175,
+      "tipeItem": "LIST",
+      "judul": "[I033] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 176,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I033] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Ruang Kelas (40 orang, viewer, sound, AC).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 177,
+      "tipeItem": "TEXT",
+      "judul": "[I033] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 178,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I033] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 179,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I034] 32. Ruang Diskusi (10 orang, viewer, sound, AC)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Ruang Diskusi (10 orang, viewer, sound, AC)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 180,
+      "tipeItem": "LIST",
+      "judul": "[I034] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 181,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I034] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Ruang Diskusi (10 orang, viewer, sound, AC).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 182,
+      "tipeItem": "TEXT",
+      "judul": "[I034] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 183,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I034] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 184,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I035] 34. Ruang kebugaran",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Ruang kebugaran\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 185,
+      "tipeItem": "LIST",
+      "judul": "[I035] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 186,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I035] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Ruang kebugaran.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 187,
+      "tipeItem": "TEXT",
+      "judul": "[I035] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 188,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I035] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 189,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I036] 35. Ruang Komputer (40 orang, viewer, sound, AC)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Ruang Komputer (40 orang, viewer, sound, AC)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 190,
+      "tipeItem": "LIST",
+      "judul": "[I036] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 191,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I036] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Ruang Komputer (40 orang, viewer, sound, AC).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 192,
+      "tipeItem": "TEXT",
+      "judul": "[I036] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 193,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I036] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 194,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I037] 36. Asrama/Penginapan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Asrama/Penginapan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 195,
+      "tipeItem": "LIST",
+      "judul": "[I037] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 196,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I037] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Asrama/Penginapan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 197,
+      "tipeItem": "TEXT",
+      "judul": "[I037] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 198,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I037] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 199,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I038] 37. Wisma Tenaga Kepelatihanan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Wisma Tenaga Kepelatihanan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 200,
+      "tipeItem": "LIST",
+      "judul": "[I038] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 201,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I038] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Wisma Tenaga Kepelatihanan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 202,
+      "tipeItem": "TEXT",
+      "judul": "[I038] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 203,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I038] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 204,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I039] 38. Perpustakaan/ Digital Library",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Perpustakaan/ Digital Library\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 205,
+      "tipeItem": "LIST",
+      "judul": "[I039] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 206,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I039] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Perpustakaan/ Digital Library.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 207,
+      "tipeItem": "TEXT",
+      "judul": "[I039] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 208,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I039] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 209,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I040] 39. Ruang makan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Ruang makan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 210,
+      "tipeItem": "LIST",
+      "judul": "[I040] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 211,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I040] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Ruang makan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 212,
+      "tipeItem": "TEXT",
+      "judul": "[I040] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 213,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I040] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 214,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I041] 40. Fasilitas Olah Raga (indoor dan outdoor)",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Fasilitas Olah Raga (indoor dan outdoor)\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 215,
+      "tipeItem": "LIST",
+      "judul": "[I041] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 216,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I041] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Fasilitas Olah Raga (indoor dan outdoor).\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 217,
+      "tipeItem": "TEXT",
+      "judul": "[I041] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 218,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I041] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 219,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I042] 41. Fasilitas Hiburan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Fasilitas Hiburan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 220,
+      "tipeItem": "LIST",
+      "judul": "[I042] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 221,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I042] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Fasilitas Hiburan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 222,
+      "tipeItem": "TEXT",
+      "judul": "[I042] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 223,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I042] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 224,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I043] 42. Unit Kesehatan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Unit Kesehatan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 225,
+      "tipeItem": "LIST",
+      "judul": "[I043] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 226,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I043] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Unit Kesehatan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 227,
+      "tipeItem": "TEXT",
+      "judul": "[I043] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 228,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I043] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 229,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I044] 43. Tempat Ibadah",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Tempat Ibadah\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 230,
+      "tipeItem": "LIST",
+      "judul": "[I044] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 231,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I044] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Tempat Ibadah.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 232,
+      "tipeItem": "TEXT",
+      "judul": "[I044] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 233,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I044] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 234,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I045] 44. Fasilitas Keamanan",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Fasilitas Keamanan\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 235,
+      "tipeItem": "LIST",
+      "judul": "[I045] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 236,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I045] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Fasilitas Keamanan.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 237,
+      "tipeItem": "TEXT",
+      "judul": "[I045] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 238,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I045] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 239,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I046] 45. Kamar Mandi dan WC",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- PRASARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Kamar Mandi dan WC\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 240,
+      "tipeItem": "LIST",
+      "judul": "[I046] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 241,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I046] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Kamar Mandi dan WC.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 242,
+      "tipeItem": "TEXT",
+      "judul": "[I046] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 243,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I046] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 244,
+      "tipeItem": "PAGE_BREAK",
+      "judul": "SARANA PELATIHAN",
+      "deskripsi": ""
+    },
+    {
+      "indeks": 245,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I047] 47. Meja",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Meja\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 246,
+      "tipeItem": "LIST",
+      "judul": "[I047] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 247,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I047] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Meja.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 248,
+      "tipeItem": "TEXT",
+      "judul": "[I047] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 249,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I047] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 250,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I048] 48. Kursi",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Kursi\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 251,
+      "tipeItem": "LIST",
+      "judul": "[I048] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 252,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I048] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Kursi.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 253,
+      "tipeItem": "TEXT",
+      "judul": "[I048] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 254,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I048] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 255,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I049] 49. Papan Tulis",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Papan Tulis\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 256,
+      "tipeItem": "LIST",
+      "judul": "[I049] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 257,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I049] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Papan Tulis.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 258,
+      "tipeItem": "TEXT",
+      "judul": "[I049] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 259,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I049] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 260,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I050] 50. Flip chart",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Flip chart\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 261,
+      "tipeItem": "LIST",
+      "judul": "[I050] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "𝗖𝗔𝗥𝗔 𝗠𝗘𝗡𝗚𝗜𝗦𝗜 𝗡𝗜𝗟𝗔𝗜\nIsi nilai mandiri dengan angka bulat 1 atau 0.\n\n𝗣𝗶𝗹𝗶𝗵𝗮𝗻 𝗻𝗶𝗹𝗮𝗶\n- 1 = bukti tersedia (meskipun belum sempurna).\n- 0 = bukti tidak tersedia sama sekali.\n- - = indikator tidak berlaku.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Jika bukti ada tapi tidak lengkap, tetap beri nilai 1 dan tulis kekurangannya di isian Keterangan.\n- Jika menggunakan tanda -, jelaskan alasannya pada isian Keterangan.",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 262,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I050] Bukti Dukung",
+      "deskripsi": "Unggah file/dokumen pendukung untuk kelengkapan: Flip chart.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 263,
+      "tipeItem": "TEXT",
+      "judul": "[I050] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 264,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I050] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 265,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I051] 51. LCD Proyektor/Televisi",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- LCD Proyektor/Televisi\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 266,
+      "tipeItem": "LIST",
+      "judul": "[I051] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 267,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I051] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: LCD Proyektor/Televisi.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 268,
+      "tipeItem": "TEXT",
+      "judul": "[I051] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 269,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I051] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 270,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I052] 52. PC/Laptop",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- PC/Laptop\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 271,
+      "tipeItem": "LIST",
+      "judul": "[I052] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 272,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I052] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: PC/Laptop.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 273,
+      "tipeItem": "TEXT",
+      "judul": "[I052] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 274,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I052] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 275,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I053] 53. Jaringan Wi-fi",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Jaringan Wi-fi\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 276,
+      "tipeItem": "LIST",
+      "judul": "[I053] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "𝗖𝗔𝗥𝗔 𝗠𝗘𝗡𝗚𝗜𝗦𝗜 𝗡𝗜𝗟𝗔𝗜\nIsi nilai mandiri dengan angka bulat 1 atau 0.\n\n𝗣𝗶𝗹𝗶𝗵𝗮𝗻 𝗻𝗶𝗹𝗮𝗶\n- 1 = bukti tersedia (meskipun belum sempurna).\n- 0 = bukti tidak tersedia sama sekali.\n- - = indikator tidak berlaku.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Jika bukti ada tapi tidak lengkap, tetap beri nilai 1 dan tulis kekurangannya di isian Keterangan.\n- Jika menggunakan tanda -, jelaskan alasannya pada isian Keterangan.",
+      "wajibDiisi": true,
+      "pilihan": [
+        ""
+      ]
+    },
+    {
+      "indeks": 277,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I053] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Jaringan Wi-fi.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 278,
+      "tipeItem": "TEXT",
+      "judul": "[I053] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 279,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I053] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 280,
+      "tipeItem": "SECTION_HEADER",
+      "judul": "[I054] 54. Fasilitas Pembelajaran dengan Pemanfaatan Teknologi",
+      "deskripsi": "𝗥𝗜𝗡𝗚𝗞𝗔𝗦𝗔𝗡 𝗜𝗡𝗗𝗜𝗞𝗔𝗧𝗢𝗥\nBaca indikator berikut, lalu isi nilai mandiri berdasarkan bukti yang tersedia.\n\n𝗗𝗶𝗺𝗲𝗻𝘀𝗶\n- SARANA PELATIHAN\n\n𝗜𝗻𝗱𝗶𝗸𝗮𝘁𝗼𝗿\n- Fasilitas Pembelajaran dengan Pemanfaatan Teknologi\n\n𝗦𝗸𝗮𝗹𝗮 𝗽𝗲𝗻𝗶𝗹𝗮𝗶𝗮𝗻\n- 1. ada / 0. tidak\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗯𝘂𝗸𝘁𝗶 𝘆𝗮𝗻𝗴 𝗿𝗲𝗹𝗲𝘃𝗮𝗻\n- Link dokumen, gojags, kalender, evaluasi, file soft copy, atau keterangan hasil pengamatan lapangan."
+    },
+    {
+      "indeks": 281,
+      "tipeItem": "LIST",
+      "judul": "[I054] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "deskripsi": "Pilih skor penilaian mandiri untuk indikator ini (1. ada / 0. tidak).",
+      "wajibDiisi": true,
+      "pilihan": [
+        "1",
+        "0",
+        "-"
+      ]
+    },
+    {
+      "indeks": 282,
+      "tipeItem": "FILE_UPLOAD",
+      "judul": "[I054] Bukti Dukung",
+      "deskripsi": "Unggah foto dokumentasi fisik/tangkapan layar untuk kelengkapan: Fasilitas Pembelajaran dengan Pemanfaatan Teknologi.\n\n⚠️ PENTING: Cukup pilih SALAH SATU cara pelaporan.\n• Jika mengunggah file di sini ➔ KOSONGKAN isian 'Lampirkan Link Dokumen'.\n• Jika menggunakan 'Lampirkan Link Dokumen' ➔ KOSONGKAN isian upload file ini.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 283,
+      "tipeItem": "TEXT",
+      "judul": "[I054] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "deskripsi": "𝗟𝗜𝗡𝗞 𝗗𝗢𝗞𝗨𝗠𝗘𝗡\nIsi tautan dokumen atau folder bukti dukung yang relevan dengan indikator.\n\n𝗖𝗼𝗻𝘁𝗼𝗵\n- Link Google Drive, gojags, kalender, evaluasi, LMS, atau folder dokumen.\n\n𝘊𝘢𝘵𝘢𝘵𝘢𝘯\n- Pastikan link dapat diakses oleh Tim Penilai.\n- Jika tidak ada link, gunakan upload file atau jelaskan alasannya pada Keterangan.",
+      "wajibDiisi": false
+    },
+    {
+      "indeks": 284,
+      "tipeItem": "PARAGRAPH_TEXT",
+      "judul": "[I054] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "deskripsi": "𝗞𝗘𝗧𝗘𝗥𝗔𝗡𝗚𝗔𝗡 𝗣𝗘𝗡𝗬𝗘𝗟𝗘𝗡𝗚𝗚𝗔𝗥𝗔\nHanya diisi sebagai catatan jika dokumen bukti dukung ada (dinilai 1) namun belum sempurna/tidak lengkap, atau jika indikator tidak berlaku (dinilai -).\n\n𝗖𝗼𝗻𝘁𝗼𝗵 𝗰𝗮𝘁𝗮𝘁𝗮𝗻\n- KAK tersedia, tetapi belum memuat kualifikasi pengajar.\n- Daftar hadir ada, tapi belum ditandatangani semua peserta.\n- Ruang komputer tidak digunakan pada pelatihan ini (indikator tidak berlaku).",
+      "wajibDiisi": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "instrumen",
+  "version": "1.0.0",
+  "description": "Repository ini dikembangkan untuk mengelola **Form Penilaian Mandiri Penyelenggara** dan **Google Sheet Rekap** secara otomatis menggunakan Google Apps Script (GAS).",
+  "main": "index.js",
+  "scripts": {
+    "build:ppt:sosialisasi": "node scripts/build_sosialisasi_ppt.js",
+    "test:form": "node scripts/google-form-browser-test.js",
+    "test:form:submit": "node scripts/google-form-browser-test.js --submit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/clasp": "^3.3.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0",
+    "pptxgenjs": "^4.0.1",
+    "sharp": "^0.34.5"
+  }
+}

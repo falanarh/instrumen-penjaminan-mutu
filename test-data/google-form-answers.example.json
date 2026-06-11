@@ -1,0 +1,39 @@
+{
+  "formUrl": "",
+  "count": 1,
+  "headless": false,
+  "submit": false,
+  "outputDir": "test-results/google-form",
+  "userDataDir": ".playwright-google-profile",
+  "defaults": {
+    "textPrefix": "TEST OTOMASI",
+    "paragraph": "Jawaban uji otomatis untuk memeriksa alur Google Form, Apps Script, dan Google Sheets.",
+    "email": "test.otomasi@example.com",
+    "date": "2026-05-20",
+    "time": "09:00",
+    "choice": "first",
+    "checkboxCount": 1
+  },
+  "answers": [
+    {
+      "match": "Nama Pelatihan",
+      "value": "TEST OTOMASI Pelatihan {{run}}"
+    },
+    {
+      "match": "Nama Penyelenggara",
+      "value": "TEST OTOMASI Penyelenggara {{run}}"
+    },
+    {
+      "match": "Metode",
+      "choice": "Daring"
+    },
+    {
+      "match": "Tanggal Mulai",
+      "value": "2026-05-20"
+    },
+    {
+      "match": "Tanggal Selesai",
+      "value": "2026-05-21"
+    }
+  ]
+}

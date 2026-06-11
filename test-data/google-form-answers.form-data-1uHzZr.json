@@ -1,0 +1,1127 @@
+{
+  "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd5eMQdM0Y64gUugOf8zFWXd240RxKAwFiuzaapk9aH5KLQAw/viewform",
+  "count": 1,
+  "headless": false,
+  "submit": false,
+  "outputDir": "test-results/google-form",
+  "userDataDir": ".playwright-google-profile",
+  "defaults": {
+    "textPrefix": "TEST OTOMASI",
+    "paragraph": "Jawaban uji otomatis untuk memeriksa alur Google Form, Apps Script, dan Google Sheets.",
+    "email": "test.otomasi@example.com",
+    "date": "2026-05-20",
+    "time": "09:00",
+    "choice": "first",
+    "checkboxCount": 1
+  },
+  "answers": [
+    {
+      "match": "Nama Pelatihan",
+      "value": "TEST OTOMASI Penjaminan Mutu Pelatihan {{run}}"
+    },
+    {
+      "match": "Metode",
+      "choice": "2 - Luring"
+    },
+    {
+      "match": "Tanggal Mulai Pelatihan",
+      "value": "2026-05-20"
+    },
+    {
+      "match": "Tanggal Selesai Pelatihan",
+      "value": "2026-05-22"
+    },
+    {
+      "match": "Tempat Penyelenggaraan",
+      "value": "Pusdiklat BPS - Ruang Simulasi {{run}}"
+    },
+    {
+      "match": "Unit Penyelenggara",
+      "value": "Tim TEST OTOMASI Penjaminan Mutu {{run}}"
+    },
+    {
+      "match": "Tanggal Kegiatan Penjaminan Mutu",
+      "value": "2026-05-23"
+    },
+    {
+      "match": "[I001] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I001: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I001] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I001] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i001?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I001."
+    },
+    {
+      "match": "[I001] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I001: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I001."
+    },
+    {
+      "match": "[I002] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I002: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I002] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I002] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i002?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I002."
+    },
+    {
+      "match": "[I002] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I002: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I002."
+    },
+    {
+      "match": "[I003] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I003: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I003] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I003] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i003?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I003."
+    },
+    {
+      "match": "[I003] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I003: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I003."
+    },
+    {
+      "match": "[I004] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I004: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I004] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I004] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i004?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I004."
+    },
+    {
+      "match": "[I004] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I004: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I004."
+    },
+    {
+      "match": "[I005] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I005: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I005] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I005] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i005?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I005."
+    },
+    {
+      "match": "[I005] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I005: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I005."
+    },
+    {
+      "match": "[I006] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I006: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I006] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I006] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i006?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I006."
+    },
+    {
+      "match": "[I006] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I006: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I006."
+    },
+    {
+      "match": "[I007] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I007: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I007] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I007] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i007?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I007."
+    },
+    {
+      "match": "[I007] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I007: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I007."
+    },
+    {
+      "match": "[I008] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I008: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I008] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I008] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i008?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I008."
+    },
+    {
+      "match": "[I008] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I008: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I008."
+    },
+    {
+      "match": "[I009] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I009: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I009] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I009] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i009?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I009."
+    },
+    {
+      "match": "[I009] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I009: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I009."
+    },
+    {
+      "match": "[I010] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I010: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I010] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I010] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i010?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I010."
+    },
+    {
+      "match": "[I010] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I010: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I010."
+    },
+    {
+      "match": "[I011] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I011: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I011] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I011] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i011?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I011."
+    },
+    {
+      "match": "[I011] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I011: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I011."
+    },
+    {
+      "match": "[I012] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I012: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I012] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I012] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i012?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I012."
+    },
+    {
+      "match": "[I012] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I012: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I012."
+    },
+    {
+      "match": "[I013] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I013: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I013] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I013] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i013?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I013."
+    },
+    {
+      "match": "[I013] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I013: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I013."
+    },
+    {
+      "match": "[I014] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I014: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I014] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I014] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i014?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I014."
+    },
+    {
+      "match": "[I014] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I014: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I014."
+    },
+    {
+      "match": "[I015] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I015: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I015] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I015] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i015?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I015."
+    },
+    {
+      "match": "[I015] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I015: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I015."
+    },
+    {
+      "match": "[I016] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "first",
+      "note": "Dummy I016: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I016] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I016] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i016?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I016."
+    },
+    {
+      "match": "[I016] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I016: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I016."
+    },
+    {
+      "match": "[I017] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I017: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I017] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I017] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i017?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I017."
+    },
+    {
+      "match": "[I017] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I017: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I017."
+    },
+    {
+      "match": "[I018] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I018: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I018] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I018] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i018?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I018."
+    },
+    {
+      "match": "[I018] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I018: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I018."
+    },
+    {
+      "match": "[I019] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I019: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I019] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I019] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i019?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I019."
+    },
+    {
+      "match": "[I019] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I019: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I019."
+    },
+    {
+      "match": "[I020] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I020: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I020] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I020] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i020?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I020."
+    },
+    {
+      "match": "[I020] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I020: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I020."
+    },
+    {
+      "match": "[I021] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I021: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I021] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I021] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i021?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I021."
+    },
+    {
+      "match": "[I021] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I021: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I021."
+    },
+    {
+      "match": "[I022] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I022: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I022] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I022] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i022?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I022."
+    },
+    {
+      "match": "[I022] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I022: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I022."
+    },
+    {
+      "match": "[I023] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I023: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I023] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I023] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i023?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I023."
+    },
+    {
+      "match": "[I023] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I023: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I023."
+    },
+    {
+      "match": "[I024] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I024: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I024] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I024] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i024?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I024."
+    },
+    {
+      "match": "[I024] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I024: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I024."
+    },
+    {
+      "match": "[I025] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I025: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I025] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I025] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i025?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I025."
+    },
+    {
+      "match": "[I025] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I025: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I025."
+    },
+    {
+      "match": "[I026] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I026: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I026] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I026] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i026?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I026."
+    },
+    {
+      "match": "[I026] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I026: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I026."
+    },
+    {
+      "match": "[I027] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I027: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I027] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I027] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i027?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I027."
+    },
+    {
+      "match": "[I027] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I027: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I027."
+    },
+    {
+      "match": "[I028] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I028: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I028] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I028] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i028?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I028."
+    },
+    {
+      "match": "[I028] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I028: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I028."
+    },
+    {
+      "match": "[I029] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I029: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I029] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I029] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i029?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I029."
+    },
+    {
+      "match": "[I029] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I029: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I029."
+    },
+    {
+      "match": "[I030] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I030: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I030] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I030] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i030?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I030."
+    },
+    {
+      "match": "[I030] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I030: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I030."
+    },
+    {
+      "match": "[I031] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I031: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I031] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I031] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i031?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I031."
+    },
+    {
+      "match": "[I031] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I031: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I031."
+    },
+    {
+      "match": "[I032] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I032: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I032] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I032] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i032?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I032."
+    },
+    {
+      "match": "[I032] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I032: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I032."
+    },
+    {
+      "match": "[I033] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I033: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I033] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I033] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i033?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I033."
+    },
+    {
+      "match": "[I033] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I033: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I033."
+    },
+    {
+      "match": "[I034] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I034: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I034] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I034] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i034?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I034."
+    },
+    {
+      "match": "[I034] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I034: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I034."
+    },
+    {
+      "match": "[I035] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I035: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I035] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I035] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i035?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I035."
+    },
+    {
+      "match": "[I035] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I035: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I035."
+    },
+    {
+      "match": "[I036] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I036: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I036] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I036] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i036?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I036."
+    },
+    {
+      "match": "[I036] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I036: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I036."
+    },
+    {
+      "match": "[I037] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I037: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I037] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I037] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i037?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I037."
+    },
+    {
+      "match": "[I037] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I037: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I037."
+    },
+    {
+      "match": "[I038] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I038: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I038] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I038] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i038?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I038."
+    },
+    {
+      "match": "[I038] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I038: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I038."
+    },
+    {
+      "match": "[I039] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I039: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I039] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I039] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i039?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I039."
+    },
+    {
+      "match": "[I039] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I039: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I039."
+    },
+    {
+      "match": "[I040] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I040: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I040] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I040] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i040?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I040."
+    },
+    {
+      "match": "[I040] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I040: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I040."
+    },
+    {
+      "match": "[I041] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I041: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I041] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I041] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i041?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I041."
+    },
+    {
+      "match": "[I041] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I041: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I041."
+    },
+    {
+      "match": "[I042] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I042: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I042] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I042] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i042?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I042."
+    },
+    {
+      "match": "[I042] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I042: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I042."
+    },
+    {
+      "match": "[I043] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I043: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I043] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I043] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i043?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I043."
+    },
+    {
+      "match": "[I043] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I043: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I043."
+    },
+    {
+      "match": "[I044] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I044: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I044] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I044] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i044?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I044."
+    },
+    {
+      "match": "[I044] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I044: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I044."
+    },
+    {
+      "match": "[I045] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I045: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I045] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I045] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i045?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I045."
+    },
+    {
+      "match": "[I045] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I045: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I045."
+    },
+    {
+      "match": "[I046] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I046: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I046] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I046] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i046?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I046."
+    },
+    {
+      "match": "[I046] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I046: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I046."
+    },
+    {
+      "match": "[I047] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I047: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I047] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I047] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i047?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I047."
+    },
+    {
+      "match": "[I047] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I047: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I047."
+    },
+    {
+      "match": "[I048] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I048: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I048] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I048] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i048?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I048."
+    },
+    {
+      "match": "[I048] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I048: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I048."
+    },
+    {
+      "match": "[I049] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I049: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I049] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I049] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i049?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I049."
+    },
+    {
+      "match": "[I049] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I049: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I049."
+    },
+    {
+      "match": "[I050] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I050: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I050] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I050] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i050?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I050."
+    },
+    {
+      "match": "[I050] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I050: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I050."
+    },
+    {
+      "match": "[I051] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I051: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I051] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I051] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i051?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I051."
+    },
+    {
+      "match": "[I051] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I051: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I051."
+    },
+    {
+      "match": "[I052] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I052: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I052] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I052] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i052?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I052."
+    },
+    {
+      "match": "[I052] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I052: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I052."
+    },
+    {
+      "match": "[I053] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "first",
+      "note": "Dummy I053: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I053] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I053] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i053?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I053."
+    },
+    {
+      "match": "[I053] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I053: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I053."
+    },
+    {
+      "match": "[I054] 𝘕𝘪𝘭𝘢𝘪 𝘔𝘢𝘯𝘥𝘪𝘳𝘪",
+      "choice": "1",
+      "note": "Dummy I054: nilai mandiri dibuat memenuhi indikator."
+    },
+    {
+      "match": "[I054] Bukti Dukung",
+      "skip": true,
+      "note": "FILE_UPLOAD opsional. Runner browser tidak mengunggah file dummy; gunakan pertanyaan link dokumen sebagai pengganti bukti uji."
+    },
+    {
+      "match": "[I054] 𝘓𝘢𝘮𝘱𝘪𝘳𝘬𝘢𝘯 𝘓𝘪𝘯𝘬 𝘋𝘰𝘬𝘶𝘮𝘦𝘯",
+      "value": "https://example.com/bukti-otomasi/i054?run={{run}}",
+      "note": "Dummy link bukti dukung untuk I054."
+    },
+    {
+      "match": "[I054] 𝘒𝘦𝘵𝘦𝘳𝘢𝘯𝘨𝘢𝘯",
+      "value": "I054: data dummy menyatakan dokumen, proses, dan bukti pendukung tersedia untuk kebutuhan testing otomatis run {{run}}.",
+      "note": "Dummy keterangan untuk I054."
+    }
+  ]
+}
